@@ -1,0 +1,18 @@
+{
+  "results": {
+    "Adana": [
+      { "candidate": "Aday 1", "votes": 1 },
+      { "candidate": "Aday 2", "votes": 700 },
+      { "candidate": "Aday 3", "votes": 300 },
+      { "candidate": "Aday 4", "votes": 400 },
+      { "candidate": "Aday 5", "votes": 400 }
+    ],
+    "Ankara": [
+      { "candidate": "Aday 1", "votes": 333 },
+      { "candidate": "Aday 2", "votes": 700 },
+      { "candidate": "Aday 3", "votes": 500 },
+      { "candidate": "Aday 4", "votes": 350 },
+      { "candidate": "Aday 5", "votes": 400 }
+    ]
+  }
+}

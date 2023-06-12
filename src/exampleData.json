@@ -1,0 +1,895 @@
+{
+  "results": {
+    "Adana": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Adıyaman": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Afyonkarahisar": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Ağrı": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Amasya": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Ankara": {
+      "voters": 2500,
+      "validVotes": 2200,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 600 },
+        { "candidate": "Aday 2", "votes": 800 },
+        { "candidate": "Aday 3", "votes": 400 },
+        { "candidate": "Aday 4", "votes": 345 },
+        { "candidate": "Aday 8", "votes": 55 }
+      ]
+    },
+    "Antalya": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Artvin": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Aydın": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Balıkesir": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Bilecik": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Bingöl": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Bitlis": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Bolu": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Burdur": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Bursa": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Çanakkale": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Çankırı": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Çorum": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Denizli": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Diyarbakır": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Edirne": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Elazığ": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Erzincan": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Erzurum": {
+      "voters": 18000,
+      "validVotes": 14000,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 12600 }
+      ]
+    },
+    "Eskişehir": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Gaziantep": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Giresun": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Gümüşhane": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Hakkari": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Hatay": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Isparta": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Mersin": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "İstanbul": {
+      "voters": 180000,
+      "validVotes": 140000,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 40000 },
+        { "candidate": "Aday 3", "votes": 98000 },
+        { "candidate": "Aday 4", "votes": 500 },
+        { "candidate": "Aday 8", "votes": 500 }
+      ]
+    },
+    "İzmir": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Kars": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Kastamonu": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Kayseri": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Kırklareli": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Kırşehir": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Kocaeli": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Konya": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Kütahya": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Malatya": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Manisa": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Kahramanmaraş": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Mardin": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Muğla": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Muş": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Nevşehir": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Niğde": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Ordu": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Rize": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Sakarya": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Samsun": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Siirt": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Sinop": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Sivas": {
+      "voters": 18000,
+      "validVotes": 14000,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 13000},
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Tekirdağ": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Tokat": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Trabzon": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Tunceli": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Şanlıurfa": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Uşak": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Van": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Yozgat": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Zonguldak": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Aksaray": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Bayburt": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Karaman": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Kırıkkale": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Batman": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Şırnak": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Bartın": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Ardahan": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Iğdır": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Yalova": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Karabük": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Kilis": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Osmaniye": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    },
+    "Düzce": {
+      "voters": 1800,
+      "validVotes": 1400,
+      "candidates": [
+        { "candidate": "Aday 1", "votes": 1000 },
+        { "candidate": "Aday 2", "votes": 0 },
+        { "candidate": "Aday 3", "votes": 0 },
+        { "candidate": "Aday 4", "votes": 400 },
+        { "candidate": "Aday 8", "votes": 0 }
+      ]
+    }
+  }
+}
