@@ -1,3 +1,4 @@
+![Ekran Alıntısı](https://github.com/demirhindi/ReactElectionExample/assets/44267558/e6faeb77-42de-4241-b604-63ec7a0a33cd)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
